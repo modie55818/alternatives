@@ -6,6 +6,7 @@ TagManager:
   tags:
   - color swap
   - swap color
+  - jumpbox
   layers:
   - Default
   - TransparentFX
